@@ -1,0 +1,770 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cu",
+				"currentpagecount"
+			],
+			[
+				"master",
+				"mastertotalrecords"
+			],
+			[
+				"suc",
+				"successfuldelete"
+			],
+			[
+				"mas",
+				"mastertotalrecords"
+			],
+			[
+				"Pri",
+				"PrintRecords"
+			],
+			[
+				"cur",
+				"currentlinecount"
+			],
+			[
+				"fp",
+				"fprintf\tfprintf …"
+			],
+			[
+				"to",
+				"totalrecords"
+			],
+			[
+				"curr",
+				"currentpagecount"
+			],
+			[
+				"inva",
+				"invalidcode"
+			],
+			[
+				"in",
+				"invalidadd"
+			],
+			[
+				"invalidc",
+				"invalidcode"
+			],
+			[
+				"inval",
+				"invalidchange"
+			],
+			[
+				"su",
+				"successfuladd"
+			],
+			[
+				"p",
+				"partprice"
+			],
+			[
+				"ch",
+				"ChangeID"
+			],
+			[
+				"up",
+				"updateddata"
+			],
+			[
+				"iv",
+				"invalidadd"
+			],
+			[
+				"part",
+				"partnum"
+			],
+			[
+				"test",
+				"testfile"
+			],
+			[
+				"par",
+				"partdesc"
+			],
+			[
+				"vali",
+				"validatedentry"
+			],
+			[
+				"I",
+				"InsertSortinMaster"
+			],
+			[
+				"valid",
+				"ValidateRecord"
+			],
+			[
+				"delete",
+				"deleteNode"
+			],
+			[
+				"pa",
+				"partnum"
+			],
+			[
+				"Re",
+				"ReadandInsertMasterRecord"
+			],
+			[
+				"Tran",
+				"TransRecord"
+			],
+			[
+				"ent",
+				"entry"
+			],
+			[
+				"Chan",
+				"ChangeID"
+			],
+			[
+				"pr",
+				"PrintContents"
+			],
+			[
+				"entr",
+				"entrydate_year"
+			],
+			[
+				"entrydate_",
+				"entrydate_day"
+			],
+			[
+				"str",
+				"string.h\tstandard header"
+			],
+			[
+				"local",
+				"localtime"
+			],
+			[
+				"giv",
+				"givenbasetodecimal"
+			],
+			[
+				"dec",
+				"decimaltogivenbase"
+			],
+			[
+				"deci",
+				"decimalvalue"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"gi",
+				"givenbasetodecimal"
+			],
+			[
+				"decim",
+				"decimalvalue"
+			],
+			[
+				"modu",
+				"moduloval"
+			],
+			[
+				"base",
+				"base2"
+			],
+			[
+				"modular",
+				"modularexp"
+			],
+			[
+				"given",
+				"givenstr"
+			],
+			[
+				"give",
+				"givenbasetodecimal"
+			],
+			[
+				"decima",
+				"decimaltogivenbase"
+			],
+			[
+				"conv",
+				"convertint"
+			],
+			[
+				"decimal",
+				"decimalvalue"
+			],
+			[
+				"tes",
+				"testvalue2"
+			],
+			[
+				"cHA",
+				"ChangeID"
+			],
+			[
+				"w",
+				"WriteFile"
+			],
+			[
+				"upd",
+				"updacode"
+			],
+			[
+				"upda",
+				"Update"
+			],
+			[
+				"Ch",
+				"ChangeID"
+			],
+			[
+				"free",
+				"freeList"
+			],
+			[
+				"le",
+				"lettercount"
+			],
+			[
+				"lett",
+				"lettercount"
+			],
+			[
+				"word",
+				"wordcount"
+			],
+			[
+				"re",
+				"reuppercase"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"D",
+				"DeleteRecord"
+			],
+			[
+				"sor",
+				"sortList"
+			],
+			[
+				"PRINT",
+				"printf"
+			],
+			[
+				"tlee",
+				"telrecord"
+			],
+			[
+				"key",
+				"keyname"
+			],
+			[
+				"deleteREo",
+				"DeleteRecord"
+			],
+			[
+				"Tel",
+				"telrecord"
+			],
+			[
+				"con",
+				"condition"
+			],
+			[
+				"rec",
+				"recnums"
+			],
+			[
+				"tel",
+				"telrecord"
+			],
+			[
+				"te",
+				"telnum"
+			],
+			[
+				"pla",
+				"plane"
+			],
+			[
+				"plane",
+				"planename"
+			],
+			[
+				"RE",
+				"Reserved"
+			],
+			[
+				"Selec",
+				"Select"
+			],
+			[
+				"temp",
+				"tempindex"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"ar",
+				"array"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"array",
+				"arraycount"
+			],
+			[
+				"rand",
+				"randnum"
+			],
+			[
+				"wor",
+				"word"
+			],
+			[
+				"let",
+				"letter"
+			],
+			[
+				"nu",
+				"numcount0"
+			],
+			[
+				"numco",
+				"numcount1"
+			],
+			[
+				"num",
+				"numcount0"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"_",
+				"_SESSION"
+			],
+			[
+				"WAVE",
+				"Wavelength"
+			],
+			[
+				"do",
+				"double"
+			],
+			[
+				"testnum",
+				"testnum2"
+			],
+			[
+				"TE",
+				"testnum"
+			],
+			[
+				"n",
+				"n"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "mysite/settings.py",
+			"settings":
+			{
+				"buffer_size": 3195,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C Single File.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"print",
+				"Print to HTML: print as HTML via browser"
+			],
+			[
+				"Install Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Install Package Control"
+			],
+			[
+				"set sy",
+				"Set Syntax: C"
+			],
+			[
+				"jaso",
+				"Set Syntax: Java Properties"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 150.0,
+		"history":
+		[
+			"sudo",
+			"sudo su",
+			"printf(\"test\");",
+			"print",
+			"dir",
+			"co"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/robertwaltson/Documents/Projects/django_girls_tutorial/Project1/mysite",
+		"/home/robertwaltson/Documents/Projects/django_girls_tutorial/Project1/mysite/__pycache__",
+		"/home/robertwaltson/Documents/Projects/django_girls_tutorial/Project1/blog"
+	],
+	"file_history":
+	[
+		"/home/robertwaltson/Documents/Projects/django_girls_tutorial/Project1/blog/admin.py",
+		"/home/robertwaltson/Documents/Projects/django_girls_tutorial/Project1/mysite/__init__.py",
+		"/home/robertwaltson/Documents/Projects/django_girls_tutorial/Project1/mysite/settings.py",
+		"/home/robertwaltson/Documents/Projects/django_girls_tutorial/Project1/mysite/wsgi.py",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/CP72/MP7B-PRINT-ME_One_by_One_PRINT.c",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/CP72/MP7A-MASTER.c",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/CP72/MP7D-UPDATE-YOUR-STATUS.c",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/CP72/MP7C-TRANSACTICONS.c",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/CP72/MASTER.DAT",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/CP72/TRANSAC.DAT",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/CP72/TestMaster300Replica.dat",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/CP72/MP7B-PRINT-ME_One_File_Print.c",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/test30.c",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/test35.c",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/test34.c",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/test39.c",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/test37.c",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/CP72/test41.c",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/CP72/test40.c",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/CP72/test30.c",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/CP72/test32.c",
+		"/home/robertwaltson/Documents/Program FIles/FInalized_Code_Snippets_in_C (1-1N Second Sem)/Final_Machine_Problems_CS6_AND_CS7/mp7b.c",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/CP72/test39.c",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/CP72/test38.c",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/CP72/test37.c",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/CP6/test29.c",
+		"/home/robertwaltson/Documents/Program FIles/FInalized_Code_Snippets_in_C (1-1N Second Sem)/Final_Machine_Problems_CS6_AND_CS7/master.dat",
+		"/home/robertwaltson/Downloads/CS3ReyesRianBSCS1-1N.c",
+		"/home/robertwaltson/Documents/Program FIles/FInalized_Code_Snippets_in_C (1-1N Second Sem)/Final_Machine_Problems_CS6_AND_CS7/mp7a.c",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/CP72/transactions.dat",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/CP72/transactions.txt",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/CP72/master.dat",
+		"/home/robertwaltson/Documents/Program FIles/FInalized_Code_Snippets_in_C (1-1N Second Sem)/Machine-Problems-Feb-27-2020/MP4.c",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/test29.c",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/test25.c",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/test26.c",
+		"/home/robertwaltson/Downloads/speak-easy-synthesis/index.html",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/test28.c",
+		"/home/robertwaltson/Downloads/speak-easy-synthesis/script.js",
+		"/home/robertwaltson/Downloads/speak-easy-synthesis/style.css",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/test31.c",
+		"/home/robertwaltson/Documents/Program FIles/FInalized_Code_Snippets_in_C (1-1N Second Sem)/Machine-Problems-Feb-27-2020/MP3.c",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/CP7/test30.c",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/x",
+		"/opt/lampp/htdocs/techversproject/pwd-jobposting-2/Employer/employer_home.php",
+		"/opt/lampp/htdocs/techversproject/pwd-jobposting-2/Admin/php/Dashboard_admin.php",
+		"/opt/lampp/htdocs/techversproject/pwd-jobposting-2/Admin/php/Dashboard.php",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/test29/test29.c",
+		"/home/robertwaltson/Downloads/Text-To-Speech-Page-master/index.html",
+		"/home/robertwaltson/Downloads/Text-To-Speech-Page-master/script.js",
+		"/home/robertwaltson/Documents/Notes/notes-for-euroenglish.txt",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/test27.c",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/test21.c",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/test22.c",
+		"/home/robertwaltson/Documents/Program FIles/FInalized_Code_Snippets_in_C (1-1N Second Sem)/Machine-Problems-Feb-27-2020/MP5.c",
+		"/home/robertwaltson/Downloads/Problem3_c_version.c",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/test23.c",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C (1-1N-FIRST Sem)/test24.c",
+		"/home/robertwaltson/Documents/Readable and Learning Materials/BSCS 1-1N Notes/Comprog 2 Files (BSCS 1-1N)/Structures,Unions,ENums/MP5-Study-File.c",
+		"/home/robertwaltson/Downloads/MP4.c",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/test.pdf",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/test20.c",
+		"/home/robertwaltson/Documents/Readable and Learning Materials/BSCS 1-1N Notes/Comprog 2 Files (BSCS 1-1N)/Structures,Unions,ENums/codes/CS1N01.c",
+		"/home/robertwaltson/Documents/Readable and Learning Materials/BSCS 1-1N Notes/Comprog 2 Files (BSCS 1-1N)/Structures,Unions,ENums/codes/CS1N02.c",
+		"/home/robertwaltson/Documents/Readable and Learning Materials/BSCS 1-1N Notes/Comprog 2 Files (BSCS 1-1N)/Structures,Unions,ENums/codes/CS1N03.c",
+		"/home/robertwaltson/Documents/Readable and Learning Materials/BSCS 1-1N Notes/Comprog 2 Files (BSCS 1-1N)/Structures,Unions,ENums/codes/CS1N03ptr.c",
+		"/home/robertwaltson/Documents/Readable and Learning Materials/BSCS 1-1N Notes/Comprog 2 Files (BSCS 1-1N)/Structures,Unions,ENums/codes/CS1N04.c",
+		"/home/robertwaltson/Documents/Readable and Learning Materials/BSCS 1-1N Notes/Comprog 2 Files (BSCS 1-1N)/Structures,Unions,ENums/codes/CS1N05.c",
+		"/home/robertwaltson/Documents/Readable and Learning Materials/BSCS 1-1N Notes/Comprog 2 Files (BSCS 1-1N)/Structures,Unions,ENums/codes/CS1N06.c",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/test18.c",
+		"/home/robertwaltson/Documents/Program FIles/FInalized_Code_Snippets_in_C (1-1N Second Sem)/MachineProblem1-June-23-2019/test15.c",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/test19.c",
+		"/opt/lampp/htdocs/techversproject/pwd-jobposting-2/Admin/php/Dashboard_jobposting.php",
+		"/opt/lampp/htdocs/techversproject/pwd-jobposting-2/Admin/php/db/jobposting_edit.php",
+		"/opt/lampp/htdocs/techversproject/pwd-jobposting-2/CRUD/job.php",
+		"/opt/lampp/htdocs/techversproject/pwd-jobposting-2/CRUD/appliedjob.php",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/test15.c",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/test16.c",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/test17.c",
+		"/opt/lampp/htdocs/techversproject/pwd-jobposting-2/Employer/employer_applicants.php",
+		"/opt/lampp/htdocs/techversproject/pwd-jobposting-2/include/employer_nav.php",
+		"/home/robertwaltson/Documents/Readable and Learning Materials/Algorithm Research/List of Known Algorithms/Alternating Ones and Zeroes/test14.c",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/test13.c",
+		"/opt/lampp/htdocs/techversproject/pwd-jobposting-2/CRUD/employer.php",
+		"/opt/lampp/htdocs/techversproject/pwd-jobposting-2/Admin/php/db/appliedjob_add.php",
+		"/opt/lampp/htdocs/techversproject/pwd-jobposting-2/Admin/php/Dashboard_add_jobposting.php",
+		"/opt/lampp/htdocs/techversproject/pwd-jobposting-2/Employer/db/appliedjob_add.php",
+		"/opt/lampp/htdocs/techversproject/pwd-jobposting-2/Employer/employer_form_add_job.php",
+		"/opt/lampp/htdocs/techversproject/pwd-jobposting-2/Employer/db/jobposting_add.php",
+		"/opt/lampp/htdocs/techversproject/pwd-jobposting-2/Admin/php/Dashboard_disabilities.php",
+		"/opt/lampp/htdocs/techversproject/pwd-jobposting-2/Admin/php/Dashboard_appliedjobs.php",
+		"/opt/lampp/htdocs/techversproject/pwd-jobposting-2/Employee/employee_home.php",
+		"/opt/lampp/htdocs/techversproject/pwd-jobposting-2/CRUD/disability.php",
+		"/opt/lampp/htdocs/techversproject/pwd-jobposting-2/Employee/employee_applications.php",
+		"/opt/lampp/htdocs/techversproject/pwd-jobposting-2/Admin/php/Dashboard_edit_disabilities.php",
+		"/opt/lampp/htdocs/techversproject/pwd-jobposting-2/CRUD/dbconnection.php",
+		"/opt/lampp/htdocs/techversproject/pwd-jobposting-2/Login/login_home.php",
+		"/opt/lampp/htdocs/techversproject/pwd-jobposting/CRUD/employer.php",
+		"/opt/lampp/htdocs/techversproject/pwd-jobposting/Login/login_home.php",
+		"/opt/lampp/htdocs/techversproject/pwd-jobposting/CRUD/dbconnection.php",
+		"/opt/lampp/htdocs/techversproject/test/testpage.php",
+		"/opt/lampp/htdocs/techversproject/pwd-jobposting/Employer/employer_contact_us.php",
+		"/opt/lampp/htdocs/techversproject/pwd-jobposting/Employer/employer_applicants.php",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/test12.c",
+		"/opt/lampp/htdocs/techversproject/pwd-jobposting/Employer/employer_home.php",
+		"/opt/lampp/htdocs/techversproject/pwd-jobposting/Login/Employee_Signup_db.php",
+		"/opt/lampp/htdocs/techversproject/pwd-jobposting/Login/Employee_Signup.php",
+		"/opt/lampp/htdocs/techversproject/pwd-jobposting/Login/login_company_list.php",
+		"/opt/lampp/htdocs/TestProject1/index.php",
+		"/home/robertwaltson/Documents/Program FIles/FInalized_Code_Snippets_in_C (1-1N Second Sem)/Assignment-Dec-9-2019/Olet/assignment6.c",
+		"/home/robertwaltson/Documents/Program FIles/FInalized_Code_Snippets_in_C (1-1N Second Sem)/assignment4-b.c",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/test11.c",
+		"/home/robertwaltson/Documents/Program FIles/FInalized_Code_Snippets_in_C (1-1N Second Sem)/assignment6.c",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/test10.c",
+		"/home/robertwaltson/Documents/Program FIles/FInalized_Code_Snippets_in_C (1-1N Second Sem)/assignment4-a.c",
+		"/home/robertwaltson/Documents/Program FIles/FInalized_Code_Snippets_in_C (1-1N Second Sem)/assignment5.c",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/test9.c",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/test5.c",
+		"/home/robertwaltson/Documents/Program FIles/FInalized_Code_Snippets_in_C (1-1N Second Sem)/assignment4-a_b.c",
+		"/home/robertwaltson/Documents/Program FIles/FInalized_Code_Snippets_in_C (1-1N Second Sem)/assignment4-a",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/test4.c",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/test1.c",
+		"/home/robertwaltson/Documents/Program FIles/MyProject_Pacman_Game/mainproject/main.c",
+		"/home/robertwaltson/Documents/Program FIles/Code Practice in C(General)/test8.c"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"folders":
+	[
+		{
+			"path": "/home/robertwaltson/Documents/Projects/django_girls_tutorial/Project1/mysite"
+		},
+		{
+			"path": "/home/robertwaltson/Documents/Projects/django_girls_tutorial/Project1/blog"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "mysite/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3195,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 72.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 120.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/opt/lampp/htdocs/TestProject1/TestProject1.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 296.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 5
+	}
+}
